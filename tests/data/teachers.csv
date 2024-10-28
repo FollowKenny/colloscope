@@ -1,0 +1,15 @@
+first_name;last_name;subject;availability_day;availability_hours
+AA;AA;maths;lundi;14-19
+AA;AA;maths;mardi;14-19
+AA;AA;maths;jeudi;14-19
+BB;BB;maths;lundi;14-19
+BB;BB;maths;vendredi;14-19
+CC;CC;maths;mardi;14-19
+CC;CC;maths;mercredi;14-19
+DD;DD;physique;lundi;14-19
+DD;DD;physique;mardi;14-19
+DD;DD;physique;jeudi;14-19
+EE;EE;physique;lundi;14-19
+EE;EE;physique;vendredi;14-19
+FF;FF;physique;mardi;14-19
+FF;FF;physique;mercredi;14-19

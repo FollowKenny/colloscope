@@ -1,0 +1,8 @@
+group_type;group_id;exclusion_day;exclusion_hour
+td;1;lundi;16-17
+td;2;vendredi;16-17
+lv1;anglais;mercredi;15-17
+lv1;allemand;mercredi;15-17
+lv2;anglais;vendredi;16-18
+lv2;anglais;jeudi;16-18
+lv2;espagnol;mercredi;17-19
